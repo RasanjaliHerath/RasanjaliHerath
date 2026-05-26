@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C,C++,HTML,CSS,Js,Java,C#,PHP,Python**
 
-- 📫 How to reach me **rasanjaliherath899@gmail.com**
+- 📫 How to reach me **krherath.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
