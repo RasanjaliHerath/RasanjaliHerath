@@ -8,9 +8,9 @@
 - 💼 Former **Software Engineer Intern** at **Institute of Digital Engineering Technology (IDET)** - 🌱 Currently expanding skills in **Full Stack Development & Software Engineering** 
  - 💬 Ask me about **Java, JavaScript, React, Spring Boot, PHP, MySQL, Python, C#, C++, HTML, CSS**
  - 📫 Reach me at **krherath.dev@gmail.com**
- - 🌐 Portfolio: **Your Portfolio Link** - 📍 Sri Lanka
+ - 🌐 Portfolio: **(https://rasanjaliherath.github.io/)** - 📍 Sri Lanka
 
-- 📫 How to reach me **krherath.dev@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
