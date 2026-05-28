@@ -10,7 +10,9 @@
  - 📫 Reach me at **krherath.dev@gmail.com**
  - 🌐 Portfolio: **(https://rasanjaliherath.github.io/)** - 📍 Sri Lanka
 
-
+### Programming Languages `Java` `JavaScript` `PHP` `Python` `C#` `C++` `C` `SQL` 
+### Frameworks & Technologies `React` `React Native` `Spring Boot` `Angular` `Next.js` `Vue.js` `Express.js` `.NET` `Bootstrap`
+### Technologies & Tools `REST APIs` `JSON` `MySQL` `Microsoft SQL Server` `Git` `GitHub` `Responsive UI Design`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
