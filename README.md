@@ -1,17 +1,21 @@
 
 <div align="center">
 
-# Hi there, I'm Rasanjali Herath 👋
+# Hi 👋, I'm Rasanjali Herath
 
-### Full-Stack Developer | Software Engineering Graduate | Tech Enthusiast
+### 👩‍💻 Full-Stack Web Developer | Software Engineer | BICT (Hons) Graduate
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&height=55&lines=Java+Developer;Spring+Boot+Developer;PHP+Developer;Angular+Developer;React.js+Developer;Full-Stack+Web+Developer;Building+Real-World+Web+Applications" alt="Typing Animation" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=rasanjaliherath&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-<img src="https://img.shields.io/github/followers/rasanjaliherath?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+<img src="https://img.shields.io/github/followers/rasanjaliherath?style=for-the-badge&color=36BCF7&label=Followers" alt="GitHub Followers" />
+
+<br/><br/>
+
+**🇱🇰 Sri Lanka | 💻 Passionate About Software Development**
 
 </div>
 
@@ -19,105 +23,146 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Full-Stack Developer from Sri Lanka 🇱🇰**, with a Bachelor of Information and Communication Technology (Honours) from the **University of Jaffna**.
+I'm **Rasanjali Herath**, a passionate **Full-Stack Web Developer** and **Bachelor of Information and Communication Technology (Honours) graduate** from the **University of Jaffna, Sri Lanka**.
 
-I enjoy transforming ideas into functional, responsive, and user-friendly applications. My interests include software engineering, backend development, modern web technologies, and building real-world solutions.
+I enjoy designing and developing modern, responsive, and user-friendly web applications. My experience includes frontend development, backend API development, database integration, and software testing.
 
-- 🎓 **BICT (Hons) Graduate** — University of Jaffna
-- 💼 **Former Software Engineer Intern** — Institute of Digital Engineering Technology (IDET)
-- 💻 Focused on **Full-Stack Web Development**
-- 🌱 Continuously improving my skills in **Spring Boot, React, APIs, and Database Management**
-- 🚀 Interested in building scalable and maintainable software solutions
-- 🤝 Open to collaboration and software engineering opportunities
-- 📍 Based in **Sri Lanka**
-- 📫 **Email:** [krherath.dev@gmail.com](mailto:krherath.dev@gmail.com)
+I work with technologies including **Java, Spring Boot, PHP, React.js, Angular, JavaScript, and MySQL**, and I'm continuously expanding my knowledge of software engineering.
+
+- 🎓 **Degree:** BICT (Hons) — University of Jaffna
+- 💼 **Experience:** Former Software Engineer Intern at IDET
+- 🚀 **Specialization:** Full-Stack Web Application Development
+- ☕ **Backend:** Java, Spring Boot, PHP, RESTful APIs
+- 🎨 **Frontend:** React.js, Angular, JavaScript, HTML, CSS
+- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB
+- 🌱 **Currently Learning:** Advanced Backend Development, Software Architecture & Modern Web Technologies
+- 🤝 **Open To:** Software Engineering Opportunities & Collaborations
+- 📍 **Location:** Sri Lanka
+- 📧 **Email:** [krherath.dev@gmail.com](mailto:krherath.dev@gmail.com)
 - 🌐 **Portfolio:** [rasanjaliherath.github.io](https://rasanjaliherath.github.io/)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Technical Skills
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,cpp,cs&theme=dark" alt="Programming Languages"/>
-</p>
+<div align="center">
 
-### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,python,c,cpp,cs&theme=dark" alt="Programming Languages"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,html,css,bootstrap,tailwind&theme=dark" alt="Frontend Technologies"/>
-</p>
+</div>
+
+### 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,html,css,bootstrap,tailwind&theme=dark" alt="Frontend Development"/>
+
+</div>
 
 ### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet&theme=dark" alt="Backend Technologies"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,java,php,nodejs,express,dotnet&theme=dark" alt="Backend Development"/>
+
+</div>
 
 ### 🗄️ Databases
 
-<p>
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"/>
-</p>
 
-### 🔧 Tools & Platforms
+</div>
 
-<p>
+### 🔧 Development Tools
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,arduino&theme=dark" alt="Development Tools"/>
-</p>
 
-### Additional Skills
+</div>
 
-`RESTful APIs` `Responsive Web Design` `JSON`
-`Software Testing` `Debugging` `Database Design`
-`Git Version Control` `UI/UX Fundamentals`
+### 📌 Additional Technical Knowledge
+
+<div align="center">
+
+![REST API](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/Responsive_Web_Design-1572B6?style=flat-square)
+![Software Testing](https://img.shields.io/badge/Software_Testing-4CAF50?style=flat-square)
+![Database Design](https://img.shields.io/badge/Database_Design-4479A1?style=flat-square)
+![Debugging](https://img.shields.io/badge/Debugging-FF9800?style=flat-square)
+![Git](https://img.shields.io/badge/Version_Control-F05032?style=flat-square)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 FixKart — E-Commerce & Repair Booking Platform
+### 🛒 FixKart — E-Commerce & Mobile Repair Booking Platform
 
-**Full-Stack E-Commerce Application**
+**Full-Stack Web Application | React.js + Spring Boot + MySQL**
 
-A web application designed for purchasing mobile phone accessories and managing mobile device repair bookings.
+A modern e-commerce platform designed for purchasing mobile accessories and managing mobile phone repair bookings.
 
 **Key Features:**
-- Product browsing, searching, and filtering
-- Shopping cart and checkout
-- Repair booking management
-- Order tracking and status history
-- Promotions and offers
-- Admin dashboard
-- Customer and inventory management
-- Responsive interface with theme customization
 
-**Tech Stack:** `React.js` `Spring Boot` `MySQL` `REST APIs`
+- Product browsing, searching, filtering and sorting
+- Shopping cart and wishlist
+- Customer registration and authentication
+- Online checkout and order management
+- Repair booking system
+- Order tracking and status history
+- Promotions and special offers
+- Admin dashboard and inventory management
+- Customer management
+- Contact message management
+- Responsive UI with customizable themes
+
+**Technologies:** `React.js` `Java` `Spring Boot` `MySQL` `REST APIs` `CSS`
 
 ---
 
 ### 🤖 AI Email Reply Generator
 
-An application designed to assist users in generating contextual email replies with AI-powered functionality.
+An AI-powered web application designed to help users generate contextual email replies efficiently.
 
-**Focus:** `AI Integration` `Web Development` `Productivity`
-
----
-
-### 🚗 IoT-Based Vehicular Accident Detection System
-
-An IoT-integrated system focused on detecting vehicular accidents and supporting emergency response through real-time location tracking.
-
-**Focus:** `IoT` `Real-Time Tracking` `Embedded Systems`
+**Key Areas:**
+- AI integration
+- Web application development
+- User-friendly interface
+- Productivity automation
 
 ---
 
-### 📝 Student Exam Registration System
+### 🚗 IoT-Integrated Vehicular Accident Detection System
 
-A web-based solution for managing student examination registration processes.
+**IoT-Based Accident Detection with Real-Time Tracking**
 
-**Focus:** `Web Application Development` `Database Management`
+An IoT-integrated solution designed to detect vehicle accidents and support emergency response using real-time location tracking.
+
+**Key Areas:**
+- Internet of Things (IoT)
+- Accident detection
+- Real-time location tracking
+- Embedded systems
+- Emergency response support
+
+---
+
+### 🎓 Student Exam Registration System
+
+A web-based application designed to manage student examination registration and related academic information.
+
+**Key Areas:**
+- Web application development
+- Database integration
+- Student information management
+- Form handling and validation
 
 ---
 
@@ -125,11 +170,11 @@ A web-based solution for managing student examination registration processes.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rasanjaliherath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rasanjaliherath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjaliherath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjaliherath&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=rasanjaliherath&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
@@ -137,28 +182,57 @@ A web-based solution for managing student examination registration processes.
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rasanjaliherath&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rasanjaliherath&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Currently Focusing On
 
-- Developing modern full-stack applications
-- Strengthening Java and Spring Boot backend development
-- Building responsive React applications
-- Improving database design and API development
-- Learning software architecture and best practices
-- Exploring AI-powered application development
+- ☕ Building RESTful APIs with **Java & Spring Boot**
+- 🐘 Developing dynamic web applications with **PHP**
+- 🅰️ Creating scalable frontend applications with **Angular**
+- ⚛️ Building responsive interfaces with **React.js**
+- 🗄️ Improving database design and SQL knowledge
+- 🔐 Learning secure authentication and backend development
+- 🧩 Strengthening problem-solving and software architecture skills
+- 🚀 Developing practical full-stack projects
 
 ---
 
-## 🤝 Let's Connect
+## 💼 Professional Interests
+
+```text
+Software Engineering
+    |
+    +-- Java Development
+    |     +-- Spring Boot
+    |     +-- RESTful APIs
+    |
+    +-- PHP Development
+    |     +-- Backend Web Development
+    |     +-- Database Integration
+    |
+    +-- Frontend Development
+    |     +-- React.js
+    |     +-- Angular
+    |     +-- JavaScript / TypeScript
+    |
+    +-- Full-Stack Development
+          +-- Frontend + Backend
+          +-- Database Management
+          +-- API Integration
+          +-- Software Testing
+```
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -166,12 +240,12 @@ A web-based solution for managing student examination registration processes.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://rasanjaliherath.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
 <a href="https://github.com/rasanjaliherath">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://rasanjaliherath.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://medium.com/@rasanjaliherath">
@@ -184,8 +258,10 @@ A web-based solution for managing student examination registration processes.
 
 <div align="center">
 
-### 💡 "Turning Ideas Into Meaningful Digital Solutions."
+### 💡 "Turning Ideas Into Meaningful Digital Solutions"
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my GitHub profile! ❤️**
+
+⭐ Explore my repositories and feel free to connect.
 
 </div>
