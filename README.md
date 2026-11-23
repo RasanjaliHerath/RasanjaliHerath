@@ -1,115 +1,119 @@
-# Rasanjali Herath
-
-**Full-Stack Developer** · Java · Spring Boot · React · Angular  
-BICT (Hons) — University of Jaffna, Sri Lanka
-
-Building modern, scalable web applications with clean architecture.
-
-[Portfolio](https://rasanjaliherath.github.io) · [Email](mailto:krherath.dev@gmail.com) · [Medium](https://medium.com/@rasanjaliherath)
-
----
-
-### About
-
-Full-stack developer focused on building real-world applications.  
-Strong in **backend development** with Java & Spring Boot, and modern frontend with React and Angular.
-
-Former Software Engineer Intern at **IDET**.  
-Currently deepening skills in system design, clean architecture, and production-ready APIs.
-
-Open to software engineering roles and collaborations.
-
----
-
-### Tech Stack
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### Featured Projects
-
-#### FixKart — E-Commerce & Repair Booking Platform
-Modern full-stack platform for mobile accessories and repair bookings.
-
-- Product catalog with search, filter & sorting
-- Cart, wishlist, authentication & order flow
-- Repair booking system with status tracking
-- Admin dashboard for inventory & customers
-
-**Stack:** `React` `Spring Boot` `MySQL` `REST APIs`  
-**Links:** [Live Demo](#) · [Source Code](#)
-
----
-
-#### AI Email Reply Generator
-AI-powered tool that generates contextual email replies in seconds.
-
-- Clean and fast user interface
-- AI integration for smart replies
-- Built for productivity
-
-**Stack:** `React` `Node.js` `OpenAI API` (update with actual stack)  
-**Links:** [Live Demo](#) · [Source Code](#)
-
----
-
-#### IoT Vehicular Accident Detection System
-Real-time accident detection system with location tracking for emergency response.
-
-- Sensor-based accident detection
-- Live GPS tracking
-- Instant emergency alerts
-
-**Stack:** `IoT` `Embedded Systems` `Real-time Tracking`  
-**Links:** [Source Code](#)
-
----
-
-### Currently Learning
-
-- Advanced Spring Boot & Microservices
-- System Design & Clean Architecture
-- Production-grade REST API design
-- Modern frontend architecture (React + TypeScript)
-
----
-
-### GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasanjaliherath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjaliherath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6A11CB,50:EC4899,100:00D4FF&text=Rasanjali%20Herath&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=19&animation=fadeIn" alt="Rasanjali Herath header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2700&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=Building+modern+full-stack+experiences;React+%7C+Angular+%7C+Spring+Boot+%7C+PHP;Turning+ideas+into+meaningful+solutions" alt="Animated developer introduction" />
+
+<br/>
+
+<a href="https://rasanjaliherath.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:krherath.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-6A11CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://medium.com/@rasanjaliherath"><img src="https://img.shields.io/badge/Medium-Read%20Articles-111827?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RasanjaliHerath&label=PROFILE%20VIEWS&color=6A11CB&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/RasanjaliHerath?label=Followers&style=flat-square&color=EC4899" alt="Followers" />
+
 </div>
 
----
+## ✨ About Me
 
-### Let's Connect
+I'm **Rasanjali Herath**, a **Full-Stack Web Developer** and **BICT (Honours) graduate from the University of Jaffna, Sri Lanka**. I build responsive interfaces, backend APIs, and database-driven applications, with an emphasis on practical user experiences and maintainable software.
 
-Open to full-time roles, internships, and interesting collaborations.
+- 💻 **Core stack:** React.js, Angular, Java, Spring Boot, PHP, JavaScript, MySQL
+- 🧪 **Experience:** Software engineering internship at IDET; web development, testing and API integration
+- 🌱 **Exploring:** Software architecture, backend security and modern web technologies
+- 🤝 **Interested in:** Software engineering opportunities and meaningful collaborations
+- 📍 **Based in:** Sri Lanka
 
-[Portfolio](https://rasanjaliherath.github.io) · [Email](mailto:krherath.dev@gmail.com) · [Medium](https://medium.com/@rasanjaliherath)
+## 🛠️ Technology Stack
+
+<div align="center">
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,python,react,angular,html,css,tailwind&theme=dark&perline=10" alt="Languages and frontend technologies" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend and database technologies" />
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" alt="Development tools" />
+
+<br/>
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square) ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-EC4899?style=flat-square) ![Testing](https://img.shields.io/badge/Software%20Testing-8B5CF6?style=flat-square) ![Database Design](https://img.shields.io/badge/Database%20Design-14B8A6?style=flat-square)
+
+</div>
+
+## 🚀 Selected Projects
+
+| Project | Overview | Technologies |
+| :--- | :--- | :--- |
+| 🛒 **FixKart** | E-commerce and phone-repair booking platform with customer accounts, order history, inventory and admin tools. | React, Spring Boot, MySQL |
+| 🚗 **MotorShow** | Automotive web application with a modern interactive frontend. | React, Spring Boot |
+| 🤖 **AI Email Reply Generator** | Web application for generating contextual email replies. | AI integration, Web development |
+| 📡 **IoT Accident Detection** | Research project exploring accident detection and real-time location tracking for emergency response. | IoT, Tracking, Embedded systems |
+| 🎓 **Student Exam Registration** | Web application for managing student exam registration data and validation. | Web development, Databases |
+
+> Explore my repositories for implementation details, screenshots and ongoing updates.
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RasanjaliHerath&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasanjaliHerath&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=RasanjaliHerath&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RasanjaliHerath&bg_color=0d1117&color=00d4ff&line=ec4899&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+
+</div>
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasanjaliHerath/RasanjaliHerath/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasanjaliHerath/RasanjaliHerath/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/RasanjaliHerath/RasanjaliHerath/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*This animation appears after the included GitHub Actions workflow runs successfully.*
+
+</div>
+
+## 🎯 What I'm Building Toward
+
+```text
+Software Engineering
+├── Frontend Engineering     → React • Angular • Responsive UI
+├── Backend Development      → Java • Spring Boot • PHP • REST APIs
+├── Data & Persistence       → MySQL • PostgreSQL • MongoDB
+└── Quality & Delivery       → Testing • Git • API Integration
+```
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities to build useful software, collaborate with developers, and keep learning.
+
+<div align="center">
+
+<a href="https://github.com/RasanjaliHerath"><img src="https://img.shields.io/badge/GitHub-Explore%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://rasanjaliherath.github.io/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6A11CB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:krherath.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+**✨ Turning Ideas Into Meaningful Digital Solutions ✨**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:6A11CB,50:EC4899,100:00D4FF" alt="Colorful footer wave" />
+
+</div>
